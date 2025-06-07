@@ -219,3 +219,6 @@ events.out.tfevents*
 
 # vim
 .vim
+
+# macos
+.DS_Store
